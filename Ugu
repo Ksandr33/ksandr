@@ -1,13 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML>
 <html>
  <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset=utf-8>
+  <meta name="viewport" content="width=device-width,
+   initial-scale=1.0">
   <title>котики</title>
+ <style>
+.thumb img {
+border: 1px solid #55c5e9;
+padding: 3px;
+background: #f498f0;
+margin-right: 33px;
+margin-bottom: 7px;
+}
+</style>
  </head>
+ <h1>Коты</h1>
+ <br>
  <body>
-  <h1>Все мои котики</h1>
-  <!-- Комментарий -->
-  <p>здесь будут теги.</p>
-  <p>здесь начнутся коты.</p>
+ <p class="thumb">
+  <img src="C:\Users\user\Desktop\kat\img\1.jpg" width="auto" height="450">
+  <img src="C:\Users\user\Desktop\kat\img\2.jpg" width="auto" height="450">
+  <img src="C:\Users\user\Desktop\kat\img\3.jpg" width="auto" height="450">
+  <img src="C:\Users\user\Desktop\kat\img\4.jpg" width="auto" height="450">
  </body>
 </html>
